@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,WACE,aAAe,CACf,yBAAA,CAAA,sBAAA,CAAA,iBAAkB,CAClB,mBACE,wBAA4B","file":"main.5672541a.chunk.css","sourcesContent":["// styles go here\n.GoodsItem {\n  padding: 0.25em;\n  width: fit-content;\n  &--active {\n    background-color: lightgreen;\n  }\n}\n"]}
